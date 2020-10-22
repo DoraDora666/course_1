@@ -11,8 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="010e218c-283b-4f22-aa0d-a28d1b416f91" name="Default Changelist" comment="catcat">
-      <change afterPath="$PROJECT_DIR$/cat-bad.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat-cute.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat-bad.html" beforeDir="false" afterPath="$PROJECT_DIR$/cat-bad.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat-cute.html" beforeDir="false" afterPath="$PROJECT_DIR$/cat-cute.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +31,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1irhgI8SAkVhiuue9psp4YkIKur" />
@@ -38,6 +47,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -48,8 +58,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602671734033</updated>
-      <workItem from="1602671737815" duration="3816000" />
+      <workItem from="1602671737815" duration="8452000" />
     </task>
+    <task id="LOCAL-00001" summary="catcat">
+      <created>1602676761236</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602676761236</updated>
+    </task>
+    <task id="LOCAL-00002" summary="catcat">
+      <created>1602676895936</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602676895936</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,9 +96,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="catcat" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="484" y="0" key="#HTML" timestamp="1603379562739">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="0" key="#HTML/0.0.1366.728@0.0.1366.728" timestamp="1603379562739" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1602674656242">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602674656242" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602676897483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602676897483" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1603382301869">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1603382301869" />
   </component>
 </project>
