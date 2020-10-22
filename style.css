@@ -1,0 +1,37 @@
+.menu {
+    color: saddlebrown;
+    font-size: 12px;
+    font-weight: lighter;
+    list-style: none;
+}
+.subtitle {
+    color: saddlebrown;
+    font-size: 22px;
+    background-color: bisque;
+}
+
+.short {
+    color: maroon;
+    font-size: 18px;
+    line-height: 15px;
+}
+
+.specifications{
+    color: maroon;
+    list-style: square outside;
+}
+
+.img {
+    padding: 10px;
+    outline: 5px saddlebrown;
+}
+
+input {
+    font-size: 15px;
+    background-color: bisque;
+}
+
+textarea {
+    font-size: 15px;
+    background-color: bisque;
+}
